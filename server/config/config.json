@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "ovale",
+    "password": "ovale",
+    "database": "ovale-dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ovale",
+    "password": "ovale",
+    "database": "ovale-dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ovale",
+    "password": "ovale",
+    "database": "ovale-test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}

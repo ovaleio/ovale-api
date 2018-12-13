@@ -1,0 +1,10 @@
+Thank you for signing up to OVALE. We're happy you're here!
+
+Enter the following code in the window where you began creating your account:
+
+{digits}
+
+If you have any questions, email us at team@ovale.io.
+
+Cheers, OVALE.io Team
+https://ovale.io
